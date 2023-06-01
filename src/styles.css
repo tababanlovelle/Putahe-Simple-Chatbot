@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.App {
+  font-family: Poppins;
+  text-align: center;
+}
+.rsc-hearder-title{
+  font-family:Tahoma;
+}
+.rsc-container{
+  width: 400px !important;
+}
+.rsc-os-option button{
+  background-color: #cecece;
+  border: 1px black solid;
+}
+.rsc-ts-bubble{
+  font-size: 10px;
+  text-align: left;
+}
+.rsc-os-option button:hover{
+  background-color: #9d9d9d;
+  border: 1px #E5E4E2 solid ;
+  color: black;
+}
+.rsc-ts-image {
+  border: 1px black solid;
+  background-color:white;
+    
+}
+
+/*WEBSITE CSS*/
+.bd{
+  background: #D3D3D3;
+  ont-family:Poppins;
+  
+}
+.navbr{
+  background-color: #d4320e ;
+}
+.name{
+  color: #FBC326;
+}
+.bod{
+  padding:50px;
+  margin: auto;
+  text-align: center;
+}
+.bt{
+  padding: 20px;
+  font-family:Poppins;
+  color: #FCE41A;
+}
+.btn:hover{
+  color:#ffff;
+  margin-top:-10px;
+}
+.tagline{
+  font-family:Poppins;
+  margin: 20px auto; 
+  color: #d4320e;
+  font-size: 45px;
+  /*background-color: #ffff;*/
+  padding: .5em;
+  width: 60%;
+  /*border: 2px #d4320e solid;
+  border-radius: 20px;*/
+}
+.photos{
+  margin-top:30px;
+}
+.burger{
+  min-height: 300px;
+  max-height: 500px;
+  border: 2px #d4320e solid;
+  margin: 10px;
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+footer{
+  background-color:#9d9d9d;
+  color:black;
+  padding: 5px;
+  text-align:center;
+}
+.bn{
+  background-color:#FBC326;
+  color:black;
+  width: 180px;
+  padding: 10px 25px;
+  border-radius:20px;
+ /* border: 2px #d4320e solid;*/
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 5px 20px;
+}
+.bn:hover{
+  background-color:#9d9d9d;
+  color:black;
+  margin-top:-10px;
+}
